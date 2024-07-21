@@ -31,8 +31,8 @@ To run this project, you'll need Python and several dependencies. Follow the ste
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/brain-tumor-segmentation.git
-    cd brain-tumor-segmentation
+    git clone https://github.com/vantoan2905/brain_tumor.git
+    cd brain_tumor
     ```
 
 2. Create a virtual environment and activate it:
